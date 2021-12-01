@@ -4,5 +4,9 @@ MArifel Figuera tiene 31 años y nacio en venezuela,
 
 viviendo en chile
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra 
 
+=======
+Hoy hablaremos de su vida y obra maestra 
+>>>>>>> e0e7b809bc69a785d78fd782d6a927b3215e9713
